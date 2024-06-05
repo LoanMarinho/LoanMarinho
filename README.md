@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoanMarinho
-- 👀 I’m interested in Backend coding/Data Science
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Computer's cience
 
 <!---
